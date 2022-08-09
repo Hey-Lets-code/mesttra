@@ -1,5 +1,4 @@
-package area_do_circulo;
-import java.text.DecimalFormat;
+package areaDoCirculo;
 import java.util.Scanner;
 
 public class Circulo_3 {
