@@ -20,7 +20,7 @@ __________________________________________
 - [ ] Página 14 - 37 questões
 _________________________________
 ### Conteúdo do Curso do Guanabara sobre a linguagem Java e listas de exercícios (na branch curso-guanabara-java)
-- [ ] Aula 1 - História do Java
+- [x] Aula 1 - História do Java
 - [ ] Aula 2 
 - [ ] Aula 3
 - [ ] Aula 4
