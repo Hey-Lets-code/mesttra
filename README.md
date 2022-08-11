@@ -3,7 +3,7 @@ _________________
 ## Repositório com os estudos adquiridos no treinamento da mesttra.
 __________________________________________
 ### Conteúdo do beecrowd - estudos que envolvem lógica de programação (na branch beecrowd)
--[] Iniciantes
+- [ ] Iniciantes
 -[] Página 1 - 37 questões
 -[] Página 2 - 37 questões
 -[] Página 3 - 37 questões
