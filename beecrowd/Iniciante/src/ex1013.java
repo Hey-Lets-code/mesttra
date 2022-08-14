@@ -15,5 +15,6 @@ public class ex1013 {
         } else {
             System.out.println(c + " eh o maior");
         }
+        entrada.close();
     }
 }

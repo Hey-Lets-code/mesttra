@@ -18,7 +18,7 @@ public class ex1015 {
         double sumOfNumbers = Math.sqrt(p1 + p2);
 
         System.out.println(decimalQuatroCasas.format(sumOfNumbers));
-
+        entrada.close();
 
         
     }

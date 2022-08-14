@@ -12,7 +12,7 @@ public class ex1014 {
         double consumoMedio = x/y;
 
         System.out.println(decimalUmaCasa.format(consumoMedio) + " km/l");
-
+        entrada.close();
 
     }
 

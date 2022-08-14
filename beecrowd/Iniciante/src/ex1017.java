@@ -12,5 +12,6 @@ public class ex1017 {
         double fuelExpense = (travelTime * averageSpeed);
 
         System.out.println(decimalThreeSpace.format(fuelExpense/12));
+        input.close();
     }
 }

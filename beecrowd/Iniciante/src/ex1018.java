@@ -21,5 +21,6 @@ public class ex1018 {
         value = value % 2;
         System.out.println(value + " nota(s) de R$ 1,00");
         // Reatribuição de valor na variável value através do módulo;
+        input.close();
     }
 }

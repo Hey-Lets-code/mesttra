@@ -13,5 +13,7 @@ public class ex1019 {
 
 //        System.out.println(value / 3600 + ":" + ((value % 3600) / 60) + ":" + (((value % 3600) % 60)));
         System.out.println(hours + ":" + minutes + ":" + seconds);
+
+        input.close();
     }
 }
