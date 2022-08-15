@@ -4,7 +4,7 @@ _________________
 __________________________________________
 ### Conteúdo do beecrowd - estudos que envolvem lógica de programação (na branch beecrowd)
 - [ ] Iniciantes
-- [ ] Página 1 - 37 questões
+- [x] Página 1 - 37 questões
 - [ ] Página 2 - 37 questões
 - [ ] Página 3 - 37 questões
 - [ ] Página 4 - 37 questões
@@ -21,9 +21,9 @@ __________________________________________
 _________________________________
 ### Conteúdo do Curso do Guanabara sobre a linguagem Java e listas de exercícios (na branch curso-guanabara-java)
 - [x] Aula 1 - História do Java
-- [ ] Aula 2 
-- [ ] Aula 3
-- [ ] Aula 4
+- [x] Aula 2 
+- [x] Aula 3
+- [x] Aula 4
 - [ ] Aula 5
 - [ ] Aula 6
 - [ ] Aula 7
