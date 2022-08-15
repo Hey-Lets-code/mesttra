@@ -21,9 +21,9 @@ __________________________________________
 _________________________________
 ### Conteúdo do Curso do Guanabara sobre a linguagem Java e listas de exercícios (na branch curso-guanabara-java)
 - [x] Aula 1 - História do Java
-- [x] Aula 2 
-- [x] Aula 3
-- [x] Aula 4
+- [x] Aula 2 - Exercícios
+- [x] Aula 3 - Instalando JDK
+- [x] Aula 4 - Exercício para mostrar idioma, hora e tamanho da tela do sistema
 - [ ] Aula 5
 - [ ] Aula 6
 - [ ] Aula 7
