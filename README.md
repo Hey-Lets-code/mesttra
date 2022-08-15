@@ -4,20 +4,20 @@ _________________
 __________________________________________
 ### Conteúdo do beecrowd - estudos que envolvem lógica de programação (na branch beecrowd)
 - [ ] Iniciantes
-- [x] Página 1 - 37 questões
-- [ ] Página 2 - 37 questões
-- [ ] Página 3 - 37 questões
-- [ ] Página 4 - 37 questões
-- [ ] Página 5 - 37 questões
-- [ ] Página 6 - 37 questões
-- [ ] Página 7 - 37 questões
-- [ ] Página 8 - 37 questões
-- [ ] Página 9 - 37 questões
-- [ ] Página 10 - 37 questões
-- [ ] Página 11 - 37 questões
-- [ ] Página 12 - 37 questões
-- [ ] Página 13 - 37 questões
-- [ ] Página 14 - 37 questões
+- [x] Página 1 - 25 questões
+- [ ] Página 2 - 25 questões
+- [ ] Página 3 - 25 questões
+- [ ] Página 4 - 25 questões
+- [ ] Página 5 - 25 questões
+- [ ] Página 6 - 25 questões
+- [ ] Página 7 - 25 questões
+- [ ] Página 8 - 25 questões
+- [ ] Página 9 - 25 questões
+- [ ] Página 10 - 25 questões
+- [ ] Página 11 - 25 questões
+- [ ] Página 12 - 25 questões
+- [ ] Página 13 - 25 questões
+- [ ] Página 14 - 25 questões
 _________________________________
 ### Conteúdo do Curso do Guanabara sobre a linguagem Java e listas de exercícios (na branch curso-guanabara-java)
 - [x] Aula 1 - História do Java
