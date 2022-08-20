@@ -1,14 +1,15 @@
-package produto_simples;
+package somaSimples;
 import java.util.Scanner;
-public class produto {
+
+public class soma {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
         int a = entrada.nextInt();
         int b = entrada.nextInt();
 
-        int prod = a * b;
+        int soma = a + b;
 
-        System.out.println("PROD = " + prod);
+        System.out.println("SOMA = " + soma);
     }
 }
